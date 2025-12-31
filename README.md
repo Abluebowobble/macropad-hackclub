@@ -9,11 +9,11 @@ The heatset inserts would be placed in all the holds to keep the case together a
 I have items poking out both the front side and the backside, so I'll need to be careful about that when assembling the entire thing. I'll also look into creating adding depressiosn for all the diodes and the XIAO, but thats for later.
 
 # PCB and Schematic
-Heres an image of the PCB board and schematic
-Image of the pcb
+Heres an image of the PCB board and schematic!\n
+Image of the pcb\n
 <img src="images\pcb.png" width="500" alt="Image of cad">
 
-Image of schematic
+Image of schematic\n
 <img src="images\sch.png" width="500" alt="Image of cad">
 
 # BOM
